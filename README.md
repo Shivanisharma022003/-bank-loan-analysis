@@ -156,4 +156,3 @@ Step 4  →  Open any query file in Excel to view SQL results
 ## 👤 Author
 
 Your Name-: Shivani Sharma
-Data Analyst · Python · SQL · Power BI · Excel
