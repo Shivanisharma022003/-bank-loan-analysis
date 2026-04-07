@@ -3,6 +3,9 @@
 A complete data analytics project on bank loan applications covering data cleaning, SQL analysis, Excel reporting and an interactive Power BI dashboard.
 
 ---
+## 📌 Problem Statement
+This project aims to analyze bank loan application data to identify key factors influencing loan approval decisions. The goal is to evaluate the impact of applicant income, education, credit history, and property area on loan approval rates to support risk assessment and data-driven decision-making in financial institutions.
+
 
 ## 📌 Project Overview
 
@@ -113,6 +116,11 @@ Query 4 — Income vs loan amount category
 Query 5 — Credit history impact on approval
 
 ---
+## 💼 Business Impact
+- Helps banks identify key factors affecting loan approval decisions  
+- Supports risk assessment using credit history and applicant profile  
+- Enables better targeting of loan products based on customer segments
+- 
 
 ## 📋 Dataset Summary
 
@@ -133,6 +141,8 @@ Excel         →  Query Results · Summary Reports
 Power BI      →  Interactive Dashboard · KPI Cards · Slicers
 
 ---
+## 🔄 Workflow
+Data Cleaning (Python) → Data Storage (Excel) → SQL Analysis → Exploratory Data Analysis (Python) → Dashboarding (Power BI)
 
 ## 🚀 How to Use
 
